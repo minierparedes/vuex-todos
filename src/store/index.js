@@ -1,5 +1,5 @@
-import Vuex from "vue";
-import Vue from "vuex";
+import Vue from "vue";
+import Vuex from "vuex";
 import todos from "./modules/todos";
 
 // Load VUEX
